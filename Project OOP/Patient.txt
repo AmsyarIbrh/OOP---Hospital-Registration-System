@@ -1,0 +1,2 @@
+Mahmud, 19,Male, Selangor,P001,HSBC Life, R001, Fever, Surgery, Sever
+Mazenah, 26,Female,Johor,P002,Not registered, R002, Headache, Surgery, Critical
